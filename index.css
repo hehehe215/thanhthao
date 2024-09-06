@@ -64,7 +64,7 @@ html, body {
 	justify-content: center;
 	gap: 10px; /* Khoảng cách giữa các phần tử */
 	color: white;
-	margin-bottom: 20px; /* Khoảng cách từ đáy trang đến phần tử */
+	margin-bottom: 400px; /* Khoảng cách từ đáy trang đến phần tử */
   }
   .text {
 	font-size: 24px;
